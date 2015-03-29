@@ -32,3 +32,9 @@ The seed uses the following software components:
 4 - to test it on mobile (connected on usb, dev ready) ,    
 ```ionic add android
 ionci run andoid```
+
+## Screenshots
+
+### View
+
+![View](./screenshots/Sview01.png)
